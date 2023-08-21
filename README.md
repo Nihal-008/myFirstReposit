@@ -2,4 +2,6 @@
 ## hello world
 *welcome*
 **Nihal**
-**asterisks
+* list1
+- list2
++ list3
